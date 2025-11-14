@@ -10,9 +10,7 @@ just for fun. Enjoy!
 
   File: Audios/05_Welcome-to-Wild-West-Club.mp3
   Size: 11976704        Blocks: 23392      IO Block: 4096   regular file
-Device: 253,2   Inode: 40771952    Links: 1
-Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
-Access: 2025-11-12 11:23:31.797125139 +0800
+Access: 2025-11-14 08:04:32.907663546 +0800
 Modify: 2025-11-12 11:23:15.505040964 +0800
 Change: 2025-11-12 11:23:15.505040964 +0800
  Birth: 2025-09-05 10:20:24.624088726 +0800
@@ -34,6 +32,7 @@ On YouTube since : 2025-09-05
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -54,11 +53,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Welcome to Wild West Club
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-welcome-to-wild-west-club
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Welcome to Wild West Club
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-welcome-to-wild-west-club
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-09-05 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-welcome-to-wild-west-club
 --------------------------------------------------------------------------------
 ```
 
